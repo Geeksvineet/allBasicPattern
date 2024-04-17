@@ -40,7 +40,7 @@ After running the program, you will be prompted to select a pattern to print. En
 
 ## Patterns Available
 
-Basic Patterns :-       
+### Basic Patterns :-       
 1. Solid Rectengle      
 2. Hollow Rectengle     
 3. Half Pyramid
@@ -50,13 +50,13 @@ Basic Patterns :-
 7. Inverted Half Pyramid with number
 8. Floyd's Tringle
 9. Binary Pattern
-Advance Patterns :-
+### Advance Patterns :-
 10. Butterfly Pattern
 11. Solid Rhombus
 12. Number Pyramid
 13. Pailaindromic Pattern
 14. Daimond Pattern
-And many more Coming Soon...
+#### And many more Coming Soon...
 
 ## Contributing
 
